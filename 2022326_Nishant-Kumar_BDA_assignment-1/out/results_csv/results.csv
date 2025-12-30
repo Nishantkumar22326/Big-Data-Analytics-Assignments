@@ -1,0 +1,12 @@
+Metric,Computed,Ground Truth,Notes
+Nodes,7115.0,7115.0,Matches.
+Edges,103689.0,103689.0,Matches.
+Largest WCC (nodes),7066.0,7066.0,Matches.
+Largest WCC (edges),103663.0,103663.0,Matches.
+Largest SCC (nodes),1300.0,1300.0,Matches.
+Largest SCC (edges),39456.0,39456.0,Matches.
+Avg clustering coefficient,0.1409,0.1409,Matches.
+Number of triangles,608389.0,608389.0,Matches.
+Fraction of closed triangles,0.04183,0.04564,Approximation; small rounding expected.
+Diameter (approx),7.0,7.0,Matches.
+Effective diameter (90%),4.0,3.8,Approximation; small rounding expected.
